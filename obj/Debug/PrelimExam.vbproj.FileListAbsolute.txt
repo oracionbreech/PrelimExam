@@ -1,0 +1,12 @@
+C:\Users\sempol\source\repos\PrelimExam\PrelimExam\bin\Debug\PrelimExam.exe.config
+C:\Users\sempol\source\repos\PrelimExam\PrelimExam\bin\Debug\PrelimExam.exe
+C:\Users\sempol\source\repos\PrelimExam\PrelimExam\bin\Debug\PrelimExam.pdb
+C:\Users\sempol\source\repos\PrelimExam\PrelimExam\bin\Debug\PrelimExam.xml
+C:\Users\sempol\source\repos\PrelimExam\PrelimExam\obj\Debug\PrelimExam.vbprojAssemblyReference.cache
+C:\Users\sempol\source\repos\PrelimExam\PrelimExam\obj\Debug\PrelimExam.Form1.resources
+C:\Users\sempol\source\repos\PrelimExam\PrelimExam\obj\Debug\PrelimExam.Resources.resources
+C:\Users\sempol\source\repos\PrelimExam\PrelimExam\obj\Debug\PrelimExam.vbproj.GenerateResource.cache
+C:\Users\sempol\source\repos\PrelimExam\PrelimExam\obj\Debug\PrelimExam.vbproj.CoreCompileInputs.cache
+C:\Users\sempol\source\repos\PrelimExam\PrelimExam\obj\Debug\PrelimExam.exe
+C:\Users\sempol\source\repos\PrelimExam\PrelimExam\obj\Debug\PrelimExam.xml
+C:\Users\sempol\source\repos\PrelimExam\PrelimExam\obj\Debug\PrelimExam.pdb
